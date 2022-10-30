@@ -1,0 +1,6 @@
+name: SimpleCobblestoneGenerator
+version: 0.0.1
+author: NgLam2911
+main: NgLam2911\SimpleCobblestoneGenerator\Loader
+api: 4.0.0
+src-namespace-prefix: NgLam2911\SimpleCobblestoneGenerator
